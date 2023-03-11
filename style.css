@@ -1,0 +1,42 @@
+.first-section{
+    background-color: #f6e0c6;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+nav{
+    margin-right: 150px;
+}
+nav ul li{
+     display: inline-flex;
+    list-style:none;
+    padding: 6px 25px;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+.first-banner-text{
+    text-align: center;
+    margin-top: 80px;
+}
+.btn-primary {
+    background-color: #F15B22;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 14px 29px;
+    height: 64px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+    .img-banner{
+        margin-top: 50px;
+        margin-bottom: 50px;
+       margin-left:150px;
+       margin-right: 150px;
+
+    }
