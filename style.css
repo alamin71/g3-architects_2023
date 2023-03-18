@@ -63,3 +63,9 @@ ul li a{
     .second-banner-text{
         margin-left: 50px;
     }
+    .second-banner-title{
+        color: darkgray;
+    }
+    .second-banner-title2{
+        color: #FF900E;
+    }
