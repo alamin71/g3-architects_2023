@@ -1,6 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .first-section{
     justify-content: center;
     background-color: #f6e0c6;
+    
 }
 .heading{
     display: flex;
@@ -42,9 +46,9 @@ ul li a{
     }
     /* second section start */
     .second-section{
+        display: block;
         margin-bottom: 20px;
         justify-content: center;
-        position: relative;
         display:flex;
         align-items: center;
     }
@@ -137,8 +141,11 @@ ul li a{
     }
     /* fourth-section sart */
     .fourth-section{
-        display: flex;
+    
+    }
+    .fourth-section-icon{
         justify-content: center;
+        display: flex;
     }
     .fourth-section-title{
         margin-left: 250px;
