@@ -73,7 +73,7 @@ ul li a{
     }
     /* thrid section */
     .third-section{
-        margin-bottom: 20px;
+        margin-bottom: 80px;
         justify-content: center;
         display: flex;
     }
@@ -125,7 +125,7 @@ ul li a{
         position: absolute;
         bottom: 13px;
         left: 16px;
-        background-color: #F15B22;
+        background-color: #e88862;
         color: #FFFFFF;
         font-weight: 700;
         font-size: 20px;
@@ -135,3 +135,100 @@ ul li a{
         height: 70px;
         border-radius: 5px;
     }
+    /* fourth-section sart */
+    .fourth-section{
+        display: flex;
+        justify-content: center;
+    }
+    .fourth-section-title{
+        margin-left: 250px;
+        margin-bottom: 60px;
+    }
+    .fourth-section-icon-1{
+        margin-left: 35px;
+        margin-right: 35px;
+        border: 2px solid red;
+        padding: 10px 10px;
+        border-radius: 5px;
+        width: 142;
+        height: 142;
+        text-align: center;
+        justify-content: center;
+    }
+    .fourth-section-icon-2{
+        margin-left: 35px;
+        margin-right: 35px;
+        border: 2px solid red;
+        padding: 10px 10px;
+        border-radius: 5px;
+        width: 142;
+        height: 142;
+        text-align: center;
+        justify-content: center;
+    }
+    .fourth-section-icon-3{
+        margin-left: 35px;
+        margin-right: 35px;
+        border: 2px solid red;
+        padding: 10px 10px;
+        border-radius: 5px;
+        width: 142;
+        height: 142;
+        text-align: center;
+        justify-content: center;
+    }
+    .fourth-section-icon-4{
+        margin-left: 35px;
+        margin-right: 35px;
+        border: 2px solid red;
+        padding: 10px 10px;
+        border-radius: 5px;
+        width: 142;
+        height: 142;
+        text-align: center;
+        justify-content: center;
+    }
+    /* fifth-section-start */
+    .fifth-section{
+    text-align: center;
+    }
+    .fifth-section-title{
+        margin-top: 80px;
+    }
+.fifth-section-sponsors{
+    opacity: 80%;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fifth-sec-img-1{
+    margin-right: 50px;
+    width: 120px;
+    height: 40px;
+
+}
+.fifth-sec-img-2{
+    margin-right: 50px;
+    width: 120px;
+    height: 40px;
+}
+.fifth-sec-img-3{
+    margin-right: 50px;
+    width: 120px;
+    height: 40px;
+}
+.fifth-sec-img-4{
+    margin-right: 50px;
+    width: 120px;
+    height: 40px;
+}
+.fifth-sec-img-5{
+    width: 120px;
+    height: 40px;
+}
+/* footer */
+.footer{
+    background-color: #FFF4E7;
+    text-align: center;
+    padding: 20px 100px;
+}
