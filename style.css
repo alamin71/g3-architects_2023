@@ -4,7 +4,6 @@ body{
 .first-section{
     justify-content: center;
     background-color: #f6e0c6;
-    
 }
 .heading{
     display: flex;
@@ -18,7 +17,6 @@ nav ul li{
      display: inline-flex;
     list-style:none;
     padding: 6px 25px;
-    
 }
 ul li a{
     text-decoration: none;
@@ -122,8 +120,7 @@ ul li a{
     }
     .architect-1{
         margin-left: 15px;
-        height: 880px;
-
+        height: 1080px;
     }
     .btn-third-section{
         position: absolute;
@@ -141,7 +138,7 @@ ul li a{
     }
     /* fourth-section sart */
     .fourth-section{
-    
+        margin-bottom: 120px;
     }
     .fourth-section-icon{
         justify-content: center;
@@ -206,13 +203,12 @@ ul li a{
     opacity: 80%;
     height: 50px;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 .fifth-sec-img-1{
     margin-right: 50px;
     width: 120px;
     height: 40px;
-
 }
 .fifth-sec-img-2{
     margin-right: 50px;
